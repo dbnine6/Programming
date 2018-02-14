@@ -1,6 +1,6 @@
  import java.util.Scanner;
         public class Main {
-
+//this is a comment for GitHub
             public static void main(String args[]) {
 //int A, a = 10, B, b = 11, int C, c = 12, int D, d = 13, int E, e = 14, int F, f = 15;
                 Scanner scnr = new Scanner(System.in);
